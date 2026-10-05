@@ -1,0 +1,6 @@
+{
+  "course_id": "<COURSE_ID>",
+  "briefed": [
+    {"assignment_id": 123456, "name": "Example Group Assignment", "brief_url": "<link to the published brief>", "briefed_at": "2026-10-04", "note": "example entry"}
+  ]
+}
